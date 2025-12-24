@@ -1,6 +1,6 @@
 # 📉 Customer Churn Prediction
 
-## 🚀 Project Overview
+##  Project Overview
 Customer churn refers to customers stopping the use of a company’s service.  
 Predicting churn helps businesses retain customers by taking proactive actions.
 
@@ -8,7 +8,7 @@ This project builds an **end-to-end Machine Learning solution** that predicts wh
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 Customer acquisition is expensive. Losing customers early leads to revenue loss.
 
 **Goal:**
@@ -18,7 +18,7 @@ Customer acquisition is expensive. Losing customers early leads to revenue loss.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - **Dataset:** Telco Customer Churn
 - **Records:** 7,043
 - **Target Variable:** `Churn`
@@ -37,7 +37,7 @@ Customer acquisition is expensive. Losing customers early leads to revenue loss.
 
 ---
 
-## 🧪 Project Workflow
+##  Project Workflow
 
 ### 1️⃣ Exploratory Data Analysis (EDA)
 - Handled missing values in `TotalCharges`
@@ -59,7 +59,7 @@ Customer acquisition is expensive. Losing customers early leads to revenue loss.
 
 ---
 
-## 🤖 Model Building
+##  Model Building
 - Logistic Regression (baseline)
 - **Random Forest Classifier (final model)**
 
@@ -74,7 +74,7 @@ Customer acquisition is expensive. Losing customers early leads to revenue loss.
 
 ---
 
-## 🌐 Web Application (Flask)
+##  Web Application (Flask)
 
 ### Features
 - User inputs:
@@ -88,5 +88,4 @@ Customer acquisition is expensive. Losing customers early leads to revenue loss.
 
 ---
 
-## 🖥️ Project Structure
 
